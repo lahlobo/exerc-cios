@@ -1,0 +1,3 @@
+Lista: [10, 20, 30, 40, 50], Elemento: 30, Resultado esperado: 2
+Lista: [5, 15, 25, 35, 45], Elemento: 35, Resultado esperado: 3
+Lista: [1, 2, 3, 4, 5], Elemento: 6, Resultado esperado: -1
