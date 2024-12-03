@@ -1,0 +1,11 @@
+Teste 1: Lista uniforme grande
+Elemento procurado: 500
+Resultado Interpolation Search: 499, Tempo: 0.000003 segundos
+Resultado Binary Search: 499, Tempo: 0.000010 segundos
+
+Teste 2: Lista não uniforme
+Elemento procurado: 127
+Resultado Interpolation Search: 6, Tempo: 0.000005 segundos
+Resultado Binary Search: 6, Tempo: 0.000004 segundos
+
+...
