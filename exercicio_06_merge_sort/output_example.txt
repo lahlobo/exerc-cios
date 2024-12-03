@@ -1,0 +1,7 @@
+Teste com números inteiros:
+Antes: [38, 27, 43, 3, 9, 82, 10]
+Depois: [3, 9, 10, 27, 38, 43, 82]
+
+Teste com strings:
+Antes: ["banana", "abacaxi", "uva", "maçã", "laranja"]
+Depois: ["abacaxi", "banana", "laranja", "maçã", "uva"]
