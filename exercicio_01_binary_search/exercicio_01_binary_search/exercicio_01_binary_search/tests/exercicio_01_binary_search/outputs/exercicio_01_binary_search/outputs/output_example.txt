@@ -1,0 +1,14 @@
+Teste 1:
+Lista: [10, 20, 30, 40, 50]
+Elemento procurado: 30
+Índice do elemento: 2
+
+Teste 2:
+Lista: [5, 15, 25, 35, 45]
+Elemento procurado: 35
+Índice do elemento: 3
+
+Teste 3:
+Lista: [1, 2, 3, 4, 5]
+Elemento procurado: 6
+Índice do elemento: -1
