@@ -1,0 +1,18 @@
+Lista original:
+
+[64, 34, 25, 12, 22, 11, 90]
+
+Passo a passo: 
+Iteração 1: [11, 34, 25, 12, 22, 64, 90]
+Iteração 2: [11, 12, 25, 34, 22, 64, 90]
+Iteração 3: [11, 12, 22, 34, 25, 64, 90]
+Iteração 4: [11, 12, 22, 25, 34, 64, 90]
+Iteração 5: [11, 12, 22, 25, 34, 64, 90]
+Iteração 6: [11, 12, 22, 25, 34, 64, 90]
+Iteração 7: [11, 12, 22, 25, 34, 64, 90]
+
+Análise de desempenho:
+
+Tempo para ordenar lista de tamanho 10: 0.00003 segundos
+Tempo para ordenar lista de tamanho 100: 0.00145 segundos
+Tempo para ordenar lista de tamanho 1000: 0.14632 segundos
