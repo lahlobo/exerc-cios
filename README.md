@@ -14,6 +14,7 @@ Este repositório contém implementações de algoritmos de busca.
 6. [Exercício 06: Merge Sort](exercicio_06_merge_sort/)
 7. [Exercício 07: Selection Sort](exercicio_07_selection_sort/)
 8. [Exercício 08: Bucket Sort](exercicio_08_bucket_sort/)
+9. [Exercício 09: Radix Sort](exercicio_09_radix_sort/)
 
 
 
