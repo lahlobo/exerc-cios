@@ -11,6 +11,8 @@ Este repositório contém implementações de algoritmos de busca.
 3. [Exercício 03: Jump Search](exercicio_03_jump_search/)
 4. [Exercício 04: Exponential Search](exercicio_04_exponential_search/)
 5. [Exercício 05: Shell Sort](exercicio_05_shell_sort/)
+6. [Exercício 06: Merge Sort](exercicio_06_merge_sort/)
+
 
 
 
