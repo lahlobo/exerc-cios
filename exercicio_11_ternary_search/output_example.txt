@@ -1,0 +1,6 @@
+Saída esperada:
+
+Binary Search: Elemento 7 encontrado no índice: 6
+Ternary Search: Elemento 7 encontrado no índice: 6
+Binary Search: Elemento 11 encontrado no índice: -1
+Ternary Search: Elemento 11 encontrado no índice: -1
