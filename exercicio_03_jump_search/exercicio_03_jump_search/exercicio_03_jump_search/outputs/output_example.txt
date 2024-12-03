@@ -1,0 +1,9 @@
+Teste 1: Lista uniforme grande
+Elemento procurado: 5000
+Resultado Jump Search: 4999, Tempo: 0.00003 segundos
+Resultado Binary Search: 4999, Tempo: 0.00007 segundos
+
+Teste 2: Lista não uniforme
+Elemento procurado: 127
+Resultado Jump Search: 6, Tempo: 0.00001 segundos
+Resultado Binary Search: 6, Tempo: 0.00002 segundos
