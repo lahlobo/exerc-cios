@@ -1,0 +1,9 @@
+Teste 1: Lista grande uniforme
+Elemento procurado: 5000
+Resultado Exponential Search: 4999, Tempo: 0.00003 segundos
+Resultado Binary Search: 4999, Tempo: 0.00006 segundos
+
+Teste 2: Lista não uniforme
+Elemento procurado: 127
+Resultado Exponential Search: 6, Tempo: 0.00001 segundos
+Resultado Binary Search: 6, Tempo: 0.00002 segundos
