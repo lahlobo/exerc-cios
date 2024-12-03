@@ -1,0 +1,9 @@
+Teste 1:
+Shell Sequence: 0.012345 segundos
+Knuth Sequence: 0.009876 segundos
+Hibbard Sequence: 0.010234 segundos
+--------------------------------------------------
+Teste 2:
+Shell Sequence: 0.067890 segundos
+Knuth Sequence: 0.045678 segundos
+Hibbard Sequence: 0.050123 segundos
