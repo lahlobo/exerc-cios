@@ -1,0 +1,13 @@
+Teste com números em ponto flutuante no intervalo [0, 1):Lista original: 
+
+[0.78, 0.17, 0.39, 0.26, 0.72, 0.94, 0.21, 0.12, 0.23, 0.68]
+
+Lista ordenada: [0.12, 0.17, 0.21, 0.23, 0.26, 0.39, 0.68, 0.72, 0.78, 0.94]
+
+
+Teste com números inteiros:
+
+Lista original: [42, 32, 33, 52, 37, 47, 51]
+
+Lista ordenada: [32, 33, 37, 42, 47, 51, 52]
+
