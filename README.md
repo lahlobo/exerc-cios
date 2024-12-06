@@ -6,7 +6,8 @@ Este repositório contém implementações de algoritmos de busca.
 
 ## Exercícios
 
-1. [Exercício 01: Binary Search](exercicio_01_binary_search/)
+1. [Exercício 01: Binary Search](exercicio_01_binary_search/)   18.[exercicio 18](exercicio_18_ordenação_estavel_e_instavel:)
+
 2. [Exercício 02: Interpolation Search](exercicio_02_interpolation_search/)
 3. [Exercício 03: Jump Search](exercicio_03_jump_search/)
 4. [Exercício 04: Exponential Search](exercicio_04_exponential_search/)
@@ -23,7 +24,6 @@ Este repositório contém implementações de algoritmos de busca.
 15.[exercicio 15](exercicio_15_busca_e_ordenacao)
 16.[exercicio 16](exercicio_16_aplicacao_pratica_e_busca)
 17.[exercicio 17](exercicio_17_busca_e_ordenacao)
-18.[exercicio 18](exercicio_18_ordenação_estavel_e_instavel:)
 
 
 
