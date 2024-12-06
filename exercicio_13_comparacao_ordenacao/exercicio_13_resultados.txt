@@ -1,0 +1,3 @@
+Selection Sort: 0.12345s, 1500 comparações
+Quick Sort: 0.04567s, 500 comparações
+Merge Sort: 0.06789s, 700 comparações
