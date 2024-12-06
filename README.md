@@ -21,6 +21,7 @@
 17. [exercicio 17](exercicio_17_busca_e_ordenacao)
 18. [exercicio 18](exercicio_18_ordenação_estavel_e_instavel)
 19. [exercicio 19](exercicio_19)
+20. [exercicio 20](exercicio_20)
 
 
 
