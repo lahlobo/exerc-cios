@@ -21,6 +21,7 @@ Este repositório contém implementações de algoritmos de busca.
 13.[exercicio_13](exercicio_13_comparacao_ordenacao)
 14.[exercicio 14](exercicio_14_analise_complexidade.jpg)
 15.[exercicio 15](exercicio_15_busca_e_ordenacao)
+16.[exercicio 16](exercicio_16_aplicacao_pratica_e_busca)
 
 
 
