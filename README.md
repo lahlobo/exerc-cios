@@ -17,6 +17,8 @@ Este repositório contém implementações de algoritmos de busca.
 9. [Exercício 09: Radix Sort](exercicio_09_radix_sort/)
 10. [Exercício 10: Quick Sort](exercicio_10_quick_sort/)
 11. [Exercício 11: Ternary Search](exercicio_11_ternary_search/)
+12.[Tabela de Comparação](tabelas/exercicio_12_comparação.jpg)
+
 
 
 
