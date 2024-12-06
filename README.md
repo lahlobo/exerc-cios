@@ -19,6 +19,7 @@ Este repositório contém implementações de algoritmos de busca.
 11. [Exercício 11: Ternary Search](exercicio_11_ternary_search/)
 12.[Tabela de Comparação](exercicio_12_comparação.jpg)
 13.[exercicio_13](exercicio_13_comparacao_ordenacao)
+14.[exercicio 14](exercicio_14_analise_complexidade.jpg)
 
 
 
