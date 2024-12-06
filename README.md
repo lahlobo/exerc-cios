@@ -20,7 +20,7 @@
 16. [exercicio 16](exercicio_16_aplicacao_pratica_e_busca)
 17. [exercicio 17](exercicio_17_busca_e_ordenacao)
 18. [exercicio 18](exercicio_18_ordenação_estavel_e_instavel)
-19. 
+19. [exercicio 19](exercicio_19)
 
 
 
