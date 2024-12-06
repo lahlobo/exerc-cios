@@ -1,0 +1,39 @@
+# Ordenação Estável e Instável
+
+## Definição de Ordenação Estável e Instável
+
+- **Ordenação Estável**: Um algoritmo de ordenação é considerado estável se, quando dois elementos possuem o mesmo valor, a ordem relativa desses elementos no conjunto original (antes da ordenação) for mantida após a ordenação. Ou seja, se houver dois elementos com o mesmo valor, eles permanecem na mesma ordem que estavam antes de serem ordenados.
+
+- **Ordenação Instável**: Um algoritmo de ordenação é instável se ele não garante que dois elementos com o mesmo valor mantenham a mesma ordem que possuíam originalmente.
+
+## Exemplos de Algoritmos de Ordenação
+
+### 1. **Bubble Sort**: Estável
+- O **Bubble Sort** é estável porque ele compara elementos adjacentes e troca-os apenas quando necessário. Se dois elementos possuem o mesmo valor, o algoritmo não irá trocá-los, mantendo a ordem original.
+- **Exemplo**:
+  - Lista antes da ordenação: `[(3, 'A'), (1, 'B'), (3, 'C')]`
+  - Ordenação: `[(1, 'B'), (3, 'A'), (3, 'C')]` (a ordem relativa dos dois elementos `3` foi mantida)
+
+### 2. **Selection Sort**: Instável
+- O **Selection Sort** é instável, pois ele escolhe o menor ou maior valor e o troca de lugar com o valor atual, o que pode alterar a ordem relativa dos elementos com o mesmo valor.
+- **Exemplo**:
+  - Lista antes da ordenação: `[(3, 'A'), (1, 'B'), (3, 'C')]`
+  - Ordenação: `[(1, 'B'), (3, 'C'), (3, 'A')]` (a ordem relativa dos dois elementos `3` foi alterada)
+
+### 3. **Merge Sort**: Estável
+- O **Merge Sort** é estável porque, ao dividir a lista em partes e combinar as partes ordenadas, ele preserva a ordem dos elementos com valores iguais.
+- **Exemplo**:
+  - Lista antes da ordenação: `[(3, 'A'), (1, 'B'), (3, 'C')]`
+  - Ordenação: `[(1, 'B'), (3, 'A'), (3, 'C')]` (a ordem relativa dos dois elementos `3` foi mantida)
+
+### 4. **Quick Sort**: Instável
+- O **Quick Sort** é instável, pois ele escolhe um pivô e divide a lista com base nele, o que pode alterar a ordem relativa dos elementos iguais durante o processo de divisão.
+- **Exemplo**:
+  - Lista antes da ordenação: `[(3, 'A'), (1, 'B'), (3, 'C')]`
+  - Ordenação: `[(1, 'B'), (3, 'C'), (3, 'A')]` (a ordem relativa dos dois elementos `3` foi alterada)
+
+## Resumo
+
+- **Algoritmos Estáveis**: Bubble Sort, Merge Sort.
+- **Algoritmos Instáveis**: Selection Sort, Quick Sort.
+
